@@ -1,6 +1,7 @@
 # password_check
 
-Checks if your password is present in the [Pwned](https://haveibeenpwned.com/) database which contains real world passwords previously exposed in data breaches
+Checks if your password is present in the [Pwned](https://haveibeenpwned.com/) database which contains real world passwords previously exposed in data breaches.
+The password entered are not stored localy or being sent to any external servers.
 
 ### Prerequisites
 
